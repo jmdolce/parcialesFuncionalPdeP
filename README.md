@@ -1,2 +1,2 @@
 # parcialesFuncionalPdeP
-Parciales de practica paradigma funcional
+Parciales, de la materia Paradigmas de Programacion, de practica con paradigma funcional
